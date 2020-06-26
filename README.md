@@ -12,6 +12,7 @@
   <li>React</li>
   <li>Gatsby</li>
   <li>Hooks</li>
+  <li>GraphQL</li>
   <li>DatoCMS</li>
 </ul>
 <h2>Installation</h2>
